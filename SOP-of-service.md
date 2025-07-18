@@ -1,6 +1,6 @@
 | Author | Created on | Version | Last updated by | Last edited on |
 | :----- | :--------- | :------ | :-------------- | :------------- |
-| Hifza    | 17-07-25   | version 1 | ABC             |   18-07-25     |
+| Hifza    | 17-07-25   | version 1 | Hifza           |   18-07-25     |
 
 # Standard Operating Procedure (SOP): Linux Service Management with `systemctl`
 
